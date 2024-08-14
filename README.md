@@ -7,7 +7,7 @@
 ###### instance method. Furthermore, we also define two functions, updateName and updateTest, prompting the
 ###### user to enter a student's first and last names, and to also enter test scores for the student respectively.
 &nbsp;  
-###### Key features of this project include file I/O, data management, user interaction and object-oriented design.
+###### Key features of this project include File I/O, data management, user interaction and object-oriented design.
 
 
 

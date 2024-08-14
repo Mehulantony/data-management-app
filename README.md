@@ -1,5 +1,5 @@
-"# data-management-app" 
-## A brief description of the project'
+# data-management-app
+## A brief description of the project
 
 
 

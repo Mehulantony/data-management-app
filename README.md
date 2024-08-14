@@ -1,4 +1,4 @@
-# Data Management App
+# Data Management App using Python
 ## A brief description of the project
 
 ###### This Python application uses data from a text file which contains information about student exam data.
